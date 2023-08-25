@@ -1,1 +1,1 @@
-# Loan_Calculator
+I have crafted a responsive loan calculator using a blend of HTML, JavaScript, and BootStrap, ensuring seamless functionality across devices. This dynamic tool not only computes loans but also meticulously validates inputs, triggering instant alerts for any errors. Additionally, i have integrated a loader, enhancing user experience during calculation process.
